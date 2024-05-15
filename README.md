@@ -1,10 +1,13 @@
-# Code of "STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction"
+# STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction
 code of paper "STF: Spatial Temporal Fusion for Trajectory Prediction"
 This repo is based on the awesome work:
 [GRIP++](https://github.com/xincoder/GRIP/tree/master)
 
+## Running
 To execute the code in main.py, first run data_process.py to generate a new dataset.
-
+## dataset 
+The raw apollo dataset can be downloaded at the [apolloscape.auto](https://apolloscape.auto/trajectory.html)
+or [ApolloScapeAuto/dataset-api](https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction)
 ## Citation
 
 If you find STF paper useful in your research or applications, please kindly cite:
