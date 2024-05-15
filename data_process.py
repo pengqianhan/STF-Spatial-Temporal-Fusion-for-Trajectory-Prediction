@@ -295,7 +295,7 @@ if __name__ == '__main__':
 	generate_data(train_file_path_list, pra_is_train=True)
 	
 	print('Generating Testing Data.')
-	# generate_data(test_file_path_list, pra_is_train=False)
+	generate_data(test_file_path_list, pra_is_train=False)
 	
 
 
