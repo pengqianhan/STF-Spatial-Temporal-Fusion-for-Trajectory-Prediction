@@ -34,7 +34,7 @@ if debug_model==True:
 else:
     total_epoch = 226
     work_dir = './trained_models'
-    traindata_path = '/mnt/DataSets/phan635_1/stfusion-dataset/train_data.pkl'
+    traindata_path = 'dataset/train_data.pkl'
 
 
 max_x = 1. 
