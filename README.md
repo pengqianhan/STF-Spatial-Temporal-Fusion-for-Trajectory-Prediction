@@ -19,3 +19,7 @@ If you find STF paper useful in your research or applications, please kindly cit
   year={2023}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction/STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction&type=Date)](https://star-history.com/#STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction/STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction&Date)
